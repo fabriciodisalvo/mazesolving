@@ -1,4 +1,4 @@
-from Pillow import Image
+from PIL import Image
 import time
 from mazes import Maze
 from factory import SolverFactory
